@@ -1,1 +1,9 @@
+<head>
+<link rel="stylesheet" type="text/css" href="main/css/pasm.css">
+</head>    
+<script>
+    alert( 'Привет, мир это дизайнеры!' );
+  </script>
+версия № 
+<img src="main/img/pic1.JPG">
 
